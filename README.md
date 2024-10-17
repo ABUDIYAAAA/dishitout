@@ -11,9 +11,6 @@ endpoints:
         methods:
             - GET:
                     description: Retrieves a random dish from a set of dishes of different categories.
-                    responses:
-                        200: Success
-                        401: Unauthorized
     - path: /dish/<course>
         methods:
             - GET:
