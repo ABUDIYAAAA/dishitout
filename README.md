@@ -1,8 +1,8 @@
 # ENDPOINTS
 
-### `/random-dish`: 
-1. **Method:** GET 
-2. **Use:** get a random dish
+### `/random-dish`:
+ - **Method:** GET 
+ - **Use:** get a random dish
 ---
 
 ### `/dish/<course>`
